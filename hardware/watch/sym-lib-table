@@ -1,2 +1,4 @@
 (sym_lib_table
+  (version 7)
+  (lib (name "snoopy")(type "KiCad")(uri "${KIPRJMOD}/../kicad-library/snoopy.kicad_sym")(options "")(descr "A library of assorted symbols"))
 )
